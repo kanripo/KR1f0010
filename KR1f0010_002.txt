@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 孝經集傳
-#+DATE: 2015-09-23 09:40:48
-#+PROPERTY: JUAN 2
+#+DATE: 2015-08-24 22:18:13.786454
+#+PROPERTY: ID KR1f0010
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷二
 <pb:KR1f0010_WYG_002-1a>¶
 欽定四庫全書¶
 　孝經集傳卷二¶
@@ -794,4 +796,3 @@
 　　(退可度非以教/敬而能如是乎)¶
 　　　右傳十七則¶
 　孝經集傳卷二¶
-
